@@ -1,1 +1,2 @@
-== MBD Boilerplate ==
+***MBD Boilerplate***
+**By Mark Bain Design**
