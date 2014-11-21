@@ -1,0 +1,22 @@
+{
+  "name": "varee",
+  "version": "1.0.0",
+  "authors": [
+    "Mark Bain <hello@markbaindesign.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "modernizr": "~2.6.2",
+	 "singularity": ">=1.4.0",
+	 "fontawesome": ">=4.2.0"
+
+  },
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
