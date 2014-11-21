@@ -4,4 +4,4 @@ MBD Boilerplate
 By Mark Bain Design
 ---
 
-Edit this to begin.
+This project uses Grunt, Bower, Sass...
