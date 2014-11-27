@@ -1,4 +1,4 @@
-MBD Boilerplate
+MBD HTML Boilerplate
 ===
 
 By Mark Bain Design
