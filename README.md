@@ -9,3 +9,11 @@ This project uses
 * Bower, 
 * Sass,
 * ...
+*
+
+Set up
+---
+
+* Clone the project
+* Download latest WordPress to /httpdocs and install
+*
